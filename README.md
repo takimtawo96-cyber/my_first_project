@@ -12,7 +12,7 @@ Medical Cost Personal Dataset
 
 ## Tools
 
-- R
-- tidyverse
-- tidymodels
-- ranger
+- Python
+- scikit-learn
+- pandas
+- matplotlib
