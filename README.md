@@ -1,6 +1,6 @@
 # Insurance Premium Prediction
 
-This project predicts medical insurance charges using R and machine learning.
+This project predicts medical insurance charges using machine learning.
 
 ## Dataset
 Medical Cost Personal Dataset
